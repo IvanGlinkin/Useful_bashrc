@@ -34,4 +34,4 @@ Video example:
 
 Screenshots:
 ------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/010-PoC.png)
+![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bashrc.png)
