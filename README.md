@@ -29,10 +29,9 @@ An original article:
 
 Video example:
 --------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bashrc.png)
 ![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bash.gif)
 
 
 Screenshots:
 ------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bashrc.png)
+![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/010-PoC.png)
