@@ -7,8 +7,8 @@ Bash terminal is my main everyday program I'm using that's why I decided to impr
 Time displaing, inter- and intranet ip-addresses, working directory, listing files due changing dirs, splitting the outputs and other stuff which make work easier and faster. 
 
 Usage example:
-1. For users /* <user_name> is your user name, e.g. kali */
---------------
+1. For users
+------------
 ```
 mv /home/<user_name>/.bashrc /home/<user_name>/.bashrc_old
 cp ./bashrc_user /home/<user_name>/.bashrc
@@ -34,4 +34,4 @@ Video example:
 
 Screenshots:
 ------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bashrc.png)
+![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bashrc2.png)
