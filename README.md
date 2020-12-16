@@ -10,15 +10,15 @@ Usage example:
 1. For users
 ------------
 ```
-mv /home/<user_name>/.bashrc /home/<user_name>/.bashrc_old
-cp ./bashrc_user /home/<user_name>/.bashrc
-bash
+$ mv /home/<user_name>/.bashrc /home/<user_name>/.bashrc_old
+$ cp ./bashrc_user /home/<user_name>/.bashrc
+$ bash
 ```
 2. For root
 ```
-mv /root/.bashrc /root/.bashrc_old
-cp ./bashrc_root /root/.bashrc
-bash
+# mv /root/.bashrc /root/.bashrc_old
+# cp ./bashrc_root /root/.bashrc
+# bash
 ```
 
 
