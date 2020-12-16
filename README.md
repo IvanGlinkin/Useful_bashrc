@@ -4,7 +4,7 @@ When I'm doing my job I'm trying to set my working place as efficient and useful
 
 Bash terminal is my main everyday program I'm using that's why I decided to improve it a little.
 
-Time displaying, inter- and intranet ip-addresses, working directory, listing files due changing dirs, splitting the outputs and other stuff which make work easier and faster. 
+Time displaying, inter- and intranet ip-addresses, working directory, listing files due changing dirs, splitting the outputs and other stuff which can make your work easier and faster. 
 
 Usage example:
 1. For users
