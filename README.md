@@ -29,7 +29,7 @@ An original article:
 
 Video example:
 --------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bash.gif)
+![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bash2.gif)
 
 
 Screenshots:
