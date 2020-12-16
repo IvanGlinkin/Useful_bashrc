@@ -24,11 +24,12 @@ bash
 
 An original article:
 --------------------
-[https://www.ivanglinkin.com/simple-port-enumeration/](https://www.ivanglinkin.com/useful_bashrc_configuration_file/)
+[https://www.ivanglinkin.com/useful_bashrc_configuration_file/](https://www.ivanglinkin.com/useful_bashrc_configuration_file/)
 
 
 Video example:
 --------------
+![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bashrc.png)
 ![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bash.gif)
 
 
