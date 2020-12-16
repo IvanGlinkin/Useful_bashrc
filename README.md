@@ -24,7 +24,7 @@ $ bash
 
 An original article:
 --------------------
-[https://www.ivanglinkin.com/useful_bashrc_configuration_file/](https://www.ivanglinkin.com/useful_bashrc_configuration_file/)
+[https://www.ivanglinkin.com/useful-bashrc-configuration-file/](https://www.ivanglinkin.com/useful-bashrc-configuration-file/)
 
 Screenshots:
 ------------
