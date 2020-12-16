@@ -21,16 +21,12 @@ cp ./bashrc_root /root/.bashrc
 bash
 ```
 
+
 An original article:
 --------------------
 [https://www.ivanglinkin.com/useful_bashrc_configuration_file/](https://www.ivanglinkin.com/useful_bashrc_configuration_file/)
 
-
-Video example:
---------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bash_1000.gif)
-
-
 Screenshots:
 ------------
+![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bash1.png)
 ![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bashrc2.png)
