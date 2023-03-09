@@ -28,5 +28,5 @@ An original article:
 
 Screenshots:
 ------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bash11.png)
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/12/bashrc2.png)
+![](https://github.com/IvanGlinkin/media_support/blob/main/Useful-bash-1.png?raw=true)
+![](https://github.com/IvanGlinkin/media_support/blob/main/Useful-bash-2.png?raw=true)
